@@ -1,28 +1,23 @@
-# Create T3 App
+# SBook.js a port of the SBook NEXT Workstation Application to the Web
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+## Attribution
+### Creator of SBook AI-based Address Book Software
+Simson L. Garfinkel
+MIT Computer Science and Artificial Intelligence Laboratory
+77 Massachusetts Ave
+Cambridge, MA 02139
 
-## What's next? How do I make an app with this?
+617-253-1000
+http://www.sbook5.com
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## Running SBook.js
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+1. Clone this repository
+1. run `npm i`
+1. run `npm run dev`
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+## Project Scope
+1. Port single user experience of SBook to the web
+1. Adapt existing AI? use different AI?
+1. Add multi-user capability to SBook
+1. Deploy to someDomain
