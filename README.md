@@ -15,3 +15,9 @@ http://www.sbook5.com
 1. Clone this repository
 1. run `npm i`
 1. run `npm run dev`
+
+## Project Scope
+1. Port single user experience of SBook to the web
+1. Adapt existing AI? use different AI?
+1. Add multi-user capability to SBook
+1. Deploy to someDomain
